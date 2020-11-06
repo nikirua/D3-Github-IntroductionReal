@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&family=Quicksand:wght@300&family=Raleway:wght@800&display=swap');
+
+h1 {
+  font-size: 4em;
+  margin-bottom: 1em;
+  font-family: 'Raleway', sans-serif;
+}
+h2 {
+  font-size: 2.75em;
+  margin-bottom: 0.75em;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+h3 {
+  margin-bottom: 0.5em;
+  font-family: 'Quicksand', sans-serif;
+}
